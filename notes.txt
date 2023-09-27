@@ -1,0 +1,22 @@
+**** Selenium Automation By QaTestology ****
+---------------------------------------------------
+
+Agenda : 
+
+Git , Github , bit bucket
+https://www.w3schools.com/git/git_intro.asp?remote=github
+
+https://bitbucket.org/product/guides/getting-started/overview#a-brief-overview-of-bitbucket
+
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+-------------------------------------------------------------------------
+
+
+clone : get the repository in your system
+
+git clone https://github.com/niteshjain007/TestRepo.git
+
+
+
+
+
