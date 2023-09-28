@@ -16,6 +16,45 @@ clone : get the repository in your system
 
 git clone https://github.com/niteshjain007/TestRepo.git
 
+status : show status of untracked file, added files, commited file, branch status 
+
+git status 
+
+Add file :
+git add <filename with extn>
+
+commit :
+git commit -m"ading a test file"
+
+
+push: push the code/files to the branch in github
+git push origin <branchname>
+
+-------------------------------------------------
+
+new line of code just for test 
+
+show branches :
+git branch -a
+
+
+switching : git checkout <branchname>
+
+create branch -- create branch and switch 
+git checkout -b <branchname>
+
+
+add, commit, push
+
+creating pull request
+review
+Merge
+
+
+ 
+
+
+
 
 
 
