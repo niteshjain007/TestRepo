@@ -49,6 +49,13 @@ add, commit, push
 creating pull request
 review
 Merge
+------------------------------------------------
+date:07Oct2023
+
+add->commit->pushToOurOwnBranch->gotoGithub.com -> crateMergeRequest ->assignReviewer
+	->Merge code to master
+	
+-----------------------------------------------	
 
 
  
