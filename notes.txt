@@ -56,7 +56,9 @@ add->commit->pushToOurOwnBranch->gotoGithub.com -> crateMergeRequest ->assignRev
 	->Merge code to master
 	
 -----------------------------------------------	
-
+i am adding new lined ot jus show you
+you can get it through jenkins
+without saying pull
 
  
 
